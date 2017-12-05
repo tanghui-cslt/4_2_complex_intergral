@@ -19,11 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{708AB343-3E00-4B3B-B480-311B7933DC7C}</ProjectGuid>
+    <ProjectGuid>{7E728D47-D589-4C66-8877-2CF4EEC95582}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My4_3_complex_intergral</RootNamespace>
+    <RootNamespace>simpsonsformula</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>4_2_complex_intergral</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
